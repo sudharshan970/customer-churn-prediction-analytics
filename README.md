@@ -16,8 +16,7 @@ The dashboard provides actionable business insights that help organizations impr
 # 📊 Dashboard Preview
 
 ## Executive Dashboard
-![Executive Dashboard](<img width="1238" height="694" alt="Screenshot 2026-06-15 031442" src="https://github.com/user-attachments/assets/957778f7-48bd-4f8a-b4a8-30029ebead70" />
-)
+![Executive Dashboard](dashboard_images/dashboard.png)
 
 
 ---
