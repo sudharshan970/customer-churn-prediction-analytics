@@ -1,7 +1,6 @@
 
 # 🚀 Customer Churn Prediction & Analytics Dashboard
 
-![Dashboard Banner](screenshots/banner.png)
 
 ---
 
