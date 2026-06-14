@@ -16,7 +16,7 @@ The dashboard provides actionable business insights that help organizations impr
 # 📊 Dashboard Preview
 
 ## Executive Dashboard
-![Executive Dashboard](dashboard_images/dashboard.png)
+![Executive Dashboard](customer_churn_analysis_project/dashboard_images/dashboard.png)
 
 
 ---
